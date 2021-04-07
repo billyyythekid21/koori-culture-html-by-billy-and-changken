@@ -29,7 +29,7 @@ p1 {
 
 p2 {
   font-size: 20px;
-  color: powderblue;
+  color: white;
   position: relative;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
@@ -43,7 +43,7 @@ p3 {
 
 p4 {
   font-size: 20px;
-  color: powderblue;
+  color: white;
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -53,9 +53,39 @@ p5 {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+p6 {
+  font-size: 15px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p7 {
+  font-size: 15px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p8 {
+  font-size: 15px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 p9 {
   font-size: 15px;
-  color: powderblue;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p10 {
+  font-size: 15px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p11 {
+  font-size: 15px;
+  color: white;
   font-family: Arial, Helvetica, sans-serif;
 }
 
