@@ -6,8 +6,11 @@ Please enjoy our website and our enriching information in support of Indigenous 
 This website contains the following pages for the public to view and to expand their knowledge on Indigenous culture:
 
 Health and Wellbeing - Information regarding the health, wellbeing and education about Koori people, along with a basic introduction of their culture
+
 Food - Showcasing an example of a traditional Indigenous food created by Billy
+
 Dance - A video of a traditional dance performed by Changken
+
 Art - Contains a digital Indigenous-inspired artwork created by Changken using SVG (Scalable Vector Graphics) which will never lose clarity
 
 We hope that you learnt something new after looking through our website. Now sit back and enjoy the enriching content! - Billy and Changken
