@@ -30,7 +30,7 @@ footer {
   padding: 20px
 }
 
-div:not(Copyright)(Disclaimer) {
+div {
   padding: 15px
 }
 
@@ -43,7 +43,7 @@ div:not(Copyright)(Disclaimer) {
   float: left;
   color: white;
   text-align: left;
-  padding: 14px ;
+  padding: 14px 16px ;
   text-decoration: none;
   font-size: 17px;
 }
