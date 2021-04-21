@@ -14,3 +14,5 @@ Dance - A video of a traditional dance performed by Changken
 Art - Contains a digital Indigenous-inspired artwork created by Changken using SVG (Scalable Vector Graphics) which will never lose clarity
 
 We hope that you learnt something new after looking through our website. Now sit back and enjoy the enriching content! - Billy and Changken
+
+Due to Changken forgetting where he saved his SVG I had to make an entirely new SVG in a very short amount of time using a file instead of inline code.
